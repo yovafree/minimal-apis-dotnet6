@@ -8,3 +8,7 @@
 * [01 - Revisión de Minimal API - Conceptos Generales](Demo1)
 * [02 - Minimal APIs y Swagger](Demo2)
 * [03 - Minimal APIs + Controladores](Demo3)
+
+## **Presentación**
+
+[Minimal APIs con ASP.NET 6](minimal_apis_dotnet6_ieee.pdf)
